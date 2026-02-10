@@ -165,14 +165,10 @@ export GOOGLE_API_KEY="your-api-key-here"
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Specify your license here]
-
 ## Disclaimer
 
 This application is for educational and informational purposes only. It does not provide medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical decisions.
 
 ## Contact
 
-[Your contact information or links]
+sanjeevteja25021@gmail.com
